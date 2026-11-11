@@ -31,7 +31,7 @@
 - 使用“LibreOffice 下载”时，处理节点需安装 LibreOffice Writer；Windows 默认路径为 `C:/Program Files/LibreOffice/program/soffice.com`。
 
 ```bash
-git clone https://github.com/yunko1993/watermark-demo.git
+git clone https://github.com/linkyu9319/watermark-demo.git
 cd watermark-demo
 ```
 
